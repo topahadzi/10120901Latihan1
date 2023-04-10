@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--Tanggal Pengerjaan: 10-04-2023 -->
+<!--Nama: Mustapha Hadzi-->
+<!--Nim: 10120901-->
+<!--Kelas: IF-10-->
 <shape xmlns:android="http://schemas.android.com/apk/res/android">
     <corners
         android:topLeftRadius="8dp"
